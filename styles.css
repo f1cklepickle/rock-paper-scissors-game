@@ -1,0 +1,23 @@
+.buttonsContainer {
+    height: 200px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(127, 93, 160);
+    margin: 200px auto 0px auto;
+}
+
+.btn {
+    padding: 20px 50px 20px 50px;
+    background-color: bisque;
+    font-size: 30px;
+}
+
+.scoreboard {
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    font-weight: 800;
+    font-size: 25px;
+}
